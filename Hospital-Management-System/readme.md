@@ -1,6 +1,3 @@
-# Major-Projects
-# Project 1 
-
 🏥 Hospital Management System
 
 A Hospital Management System built using Python, Tkinter, and MySQL to efficiently manage patient records and prescriptions.
